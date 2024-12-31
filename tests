@@ -1,6 +1,0 @@
-<script>start("/Users/ahsan_s/Downloads/be-dg-main/ws_hw_fs_be_typescript-main/tests/");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("resolvers","resolvers",1,160,"160 B",1716987261,"5/29/24, 7:54:21 PM");</script>
-<script>addRow("test_helpers","test_helpers",1,224,"224 B",1716984245,"5/29/24, 7:04:05 PM");</script>
-<script>addRow("bootstrap.ts","bootstrap.ts",0,407,"407 B",1635763191,"11/1/21, 5:39:51 PM");</script>
-<script>addRow("global.d.ts","global.d.ts",0,559,"559 B",1635763191,"11/1/21, 5:39:51 PM");</script>
